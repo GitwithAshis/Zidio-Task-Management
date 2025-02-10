@@ -1,0 +1,34 @@
+Chart Component Documentation
+-----------------------------
+Purpose:
+- This component renders a chart using the Chart.js library.
+
+Features:
+- Supports bar, line, pie, and other chart types.
+- Responsive design.
+- Displays a customizable title and legend.
+- Dynamically updates based on provided data.
+
+Usage:
+1. Import the component:
+   import Chart from './components/Chart';
+
+2. Pass the `chartData` prop:
+   const data = {
+       labels: ['January', 'February', 'March'],
+       datasets: [
+           {
+               label: 'Sales',
+               data: [65, 59, 80],
+               backgroundColor: 'rgba(75, 192, 192, 0.2)',
+               borderColor: 'rgba(75, 192, 192, 1)',
+               borderWidth: 1,
+           },
+       ],
+   };
+
+   <Chart chartData={data} />
+
+Notes:
+- Ensure Chart.js is installed in your project.
+- Customize chart options as needed.
