@@ -1,0 +1,25 @@
+[debug] [2025-02-12T08:38:19.175Z] ----------------------------------------------------------------------
+[debug] [2025-02-12T08:38:19.176Z] Command:       /usr/local/share/nvm/versions/node/v20.18.1/bin/node /home/codespace/nvm/current/bin/firebase init
+[debug] [2025-02-12T08:38:19.177Z] CLI Version:   13.30.0
+[debug] [2025-02-12T08:38:19.177Z] Platform:      linux
+[debug] [2025-02-12T08:38:19.177Z] Node Version:  v20.18.1
+[debug] [2025-02-12T08:38:19.177Z] Time:          Wed Feb 12 2025 08:38:19 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-02-12T08:38:19.177Z] Env Overrides: GITHUB_API_URL, GITHUB_API_URL
+[debug] [2025-02-12T08:38:19.177Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-02-12T08:38:19.181Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-02-12T08:38:19.182Z] > authorizing via signed-in user (tarunbusinessmail@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /workspaces/Zidio-Task-Management/zidio-task-frontend
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
