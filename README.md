@@ -21,7 +21,7 @@ Backend: https://github.com/GitwithAshis/Zidio-Task-Management/tree/main/zidio-t
 
 🔧 Installation Follow these steps to set up the project locally: 📌 Prerequisites Ensure you have the following installed: 1.Node.js (v16+ recommended) ⚡ 2.MongoDB (local or cloud instance) 🗄️
 
-🔄 Clone the Repository git clone https://github.com/yourusername/zidio-task-management.git cd zidio-task-management
+🔄 Clone the Repository git clone https://github.com/GitwithAshis/Zidio-Task-Management/tree/main
 
 ⚙️ Backend Setup cd backend npm install npm start
 
