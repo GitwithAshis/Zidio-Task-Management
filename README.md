@@ -1,7 +1,7 @@
 ﻿# Zidio-Task-Management
 🚀 Zidio Task Management Zidio Task Management is a powerful web-based task management system designed to help users efficiently create, track, and manage tasks. Built using the MERN (MongoDB, Express, React, Node.js) stack, this platform provides a seamless experience with real-time collaboration, analytics, and task visualization.
 
-Frontend: https://zidio-task-management-ruby.vercel.app/ Backend: https://zidio-task-management-api.vercel.app/
+Frontend: https://github.com/GitwithAshis/Zidio-Task-Management/tree/main/zidio-task-frontendPart/ Backend: https://zidio-task-management-api.vercel.app/
 
 ✨ Features 📊 Dashboard Overview 📝 Task Assignment: Assign tasks with a title, description, due date, and status. 📋 Task List: View, complete, or delete tasks dynamically. 📈 Progress Graphs: Get a visual representation of task progress. 📊 Progress Chart: Monitor completion status efficiently. 🗓️ Calendar View: Visualize deadlines and stay on schedule.
 
